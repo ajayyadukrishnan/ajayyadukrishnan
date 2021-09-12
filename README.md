@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">An M3 Consultant and a passionate web developer from India</h3>
+<h3 align="center">An Infor M3 Consultant from India</h3>
 
 - 🔭 I’m currently working on [my Portfolio website](https://ajayyadukrishnan.github.io/)
 
