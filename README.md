@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Portfolio website](https://ajayyadukrishnan.github.io/)
 
-- 🌱 I’m currently learning **React, NodeJs and CSS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ajayyadukrishnan@gmail.com**
 
