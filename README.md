@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">An Infor M3 Consultant from India</h3>
 
-- 🔭 I’m currently working on [my Portfolio website](https://ajayyadukrishnan.github.io/)
+<!-- - 🔭 I’m currently working on [my Portfolio website](https://ajayyadukrishnan.github.io/) -->
 
 - 🌱 I’m currently learning **React**
 
